@@ -1,3 +1,8 @@
+body {
+  background-image: url("../images/Turing_entrance.jpg");
+  background-repeat: no-repeat;
+}
+
 #kitten {
   height: 100px;
 }
