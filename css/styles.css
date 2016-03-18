@@ -61,6 +61,14 @@ a {
 body {
   background-color: white;
   font-family: helvetica;
-  background-image: url("./images/Turing_entrance.jpg");
+  background-image: url("./images/Turing_entrance3.png") no-repeat center center fixed;
   background-repeat: no-repeat;
 }
+
+/*html {
+background: url(./images/Turing_entrance3.png) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}*/
